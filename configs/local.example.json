@@ -1,0 +1,7 @@
+{
+  "alias": "monadiam-local",
+  "description": "MonadIAM local OIDC provider",
+  "server": {
+    "discoveryUrl": "https://localhost:4002/.well-known/openid-configuration"
+  }
+}
